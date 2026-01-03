@@ -1,0 +1,65 @@
+# Hugging Face transformers>=4.35.0 library for natural language processing
+transformers>=4.35.0
+
+# Streamlit library for creating web applications with Python
+streamlit
+
+# PyTorch deep learning framework
+torch
+
+# Diffusers library (Note: Assuming this is a specific library you're using)
+diffusers
+
+# accelerate library (Note: Assuming this is a specific library you're using)
+accelerate
+
+# Hugging Face Hub for sharing and versioning models
+huggingface_hub
+
+# Pillow library for image processing tasks
+Pillow
+
+# pydub library for audio processing tasks
+pydub
+
+# BeautifulSoup4 for web scraping
+bs4
+
+# Datasets library for working with datasets in PyTorch
+datasets
+
+# soundfile library for reading and writing sound files
+soundfile
+
+# SentencePiece library for text tokenization
+sentencepiece
+
+# OpenCV-Python library for computer vision tasks
+opencv-python
+
+# IPython library for interactive computing
+ipython
+
+# LangChain library (Note: Assuming this is a specific library you're using)
+langchain
+
+# Emoji library for working with emojis in Python
+emoji
+
+# Altair library for declarative data visualization in Python
+altair
+
+# pandas library for data manipulation and analysis
+pandas
+
+#
+bokeh
+
+#
+plotly
+
+pydeck
+
+# Push token
+exponent_server_sdk
+gradio>=4.0.0
