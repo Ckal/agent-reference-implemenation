@@ -1,0 +1,18 @@
+name: agent-reference-implemenation
+type: gradio-space
+sdk: streamlit
+
+metadata:
+  space_id: Chris4K/agent-reference-implemenation
+  original_url: https://huggingface.co/spaces/Chris4K/agent-reference-implemenation
+
+deploy:
+  targets:
+    - public-repo
+    - huggingface
+
+build:
+  command: bash build.sh
+
+test:
+  command: echo "Tests not yet implemented"
